@@ -5,3 +5,4 @@ pytesseract
 opencv-python
 numpy
 scikit-learn
+easyocr
